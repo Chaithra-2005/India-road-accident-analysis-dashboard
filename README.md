@@ -128,7 +128,7 @@ Through this project, the following concepts were learned:
 
 # 👩‍💻 Author
 
-**Chaithra**
+**Chaithra J**
 
  Power BI Enthusiast | Data Analytics Learner
 
